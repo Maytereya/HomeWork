@@ -4,4 +4,4 @@
 
 Для себя: как исправить ошибку при git pull?
 
-git pull --rebase - устранение конфликта версий между local и origin.
+git pull --rebase - устранение конфликта версий между local и origin.№
