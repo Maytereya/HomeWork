@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿// задачка по ссылке
+//  https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=691
+
+Console.Clear();
 Console.Write("Введите длину массива: ");
 int l = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите значение для поиска: ");

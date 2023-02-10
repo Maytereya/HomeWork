@@ -1,4 +1,6 @@
 ﻿// Сумма цифр в числе
+// число вводится произвольно
+
 Console.Clear();
 Console.Write("Input number: ");
 string? n = Console.ReadLine();
